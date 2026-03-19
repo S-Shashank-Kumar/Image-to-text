@@ -387,6 +387,3 @@ If you accidentally push a key, go to [https://openrouter.ai/keys](https://openr
 
 ---
 
-## 📝 License
-
-MIT License — free for personal and commercial use.
